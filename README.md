@@ -9,11 +9,31 @@ In the project directory, you can run:
 ### `Project Link`
 Go to project [Click Here](https://heartfelt-liger-2af3e0.netlify.app/)
 
+### `Description`
+
+This is the project which replicates the key features of Instagram. User can see the profiles of another users, leave comment on post, can like the post, can go to any tag page. 
+
+### `Stack used`
+
+React.js, JavaScript, Bootstrap, CSS, HTML
+
 ### `ScreenShots`
 
-Home page
+1. Home page
 
-![alt text](https://1drv.ms/i/s!Av1GF_Cmod7-ghTcKzl0NrB4wizI?e=vgylhQ)
+![alt text](./screenshot/social.png)
+
+2. Profile page
+
+![alt text](./screenshot/socialProfile.png)
+
+3. Tag page
+
+![alt text](./screenshot/socialtag.png)
+
+4. Comment page
+
+![alt text](./screenshot/socialcomment.png)
 
 
 ### `npm start`
@@ -21,7 +41,4 @@ Home page
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-
+Plaese support my work for my bright future.
